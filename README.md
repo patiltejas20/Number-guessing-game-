@@ -12,3 +12,14 @@ It tells you whether your guess is **too high** 📈, **too low** 📉, or **cor
 - Option to play again
 
 
+
+
+
+
+
+
+
+
+
+
+
